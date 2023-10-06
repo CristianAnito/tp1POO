@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eed96b7d-058b-4743-823a-c28bd715f631" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../EjemploLigaduraDinamica/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjemploLigaduraDinamica/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjemploLigaduraDinamica/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjemploLigaduraDinamica/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjemploLigaduraDinamica/EjemploLigaduraDinamica.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjemploLigaduraDinamica/src/ar/edu/unlu/poo/ligaduraDinamica/Cuatro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjemploLigaduraDinamica/src/ar/edu/unlu/poo/ligaduraDinamica/Dos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjemploLigaduraDinamica/src/ar/edu/unlu/poo/ligaduraDinamica/Tres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjemploLigaduraDinamica/src/ar/edu/unlu/poo/ligaduraDinamica/Uno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio1/Ejercicio1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio1/src/ar/edu/unlu/poo/futbol/Credencial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio1/src/ar/edu/unlu/poo/futbol/Socio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio1/src/ar/edu/unlu/poo/futbol/Suscripcion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio1/src/ar/edu/unlu/poo/futbol/Tipo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio2/Ejercicio2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio2/src/ar/edu/unlu/poo/agenciaTurismo/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio2/src/ar/edu/unlu/poo/agenciaTurismo/Compra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio2/src/ar/edu/unlu/poo/agenciaTurismo/GestionLista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio2/src/ar/edu/unlu/poo/agenciaTurismo/Paquete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio2/src/ar/edu/unlu/poo/agenciaTurismo/Proveedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio2/src/ar/edu/unlu/poo/agenciaTurismo/TipoProveedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio2/src/ar/edu/unlu/poo/paquete/Destino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio2/src/ar/edu/unlu/poo/paquete/Excursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio2/src/ar/edu/unlu/poo/paquete/Hospedaje.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio2/src/ar/edu/unlu/poo/paquete/MedioTransporte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio2/src/ar/edu/unlu/poo/paquete/TipoTransporte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio3/Ejercicio3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio3/src/ar/edu/unlu/poo/danza/Academia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio3/src/ar/edu/unlu/poo/danza/Alumno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio3/src/ar/edu/unlu/poo/danza/Asistencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio3/src/ar/edu/unlu/poo/danza/Comision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio3/src/ar/edu/unlu/poo/danza/Credencial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio3/src/ar/edu/unlu/poo/danza/Disciplina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio3/src/ar/edu/unlu/poo/danza/Nivel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio4/Ejercicio4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio4/src/ar/edu/unlu/poo/sistemaBV/BilleteraVirtual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio4/src/ar/edu/unlu/poo/sistemaBV/CuentaCredito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio4/src/ar/edu/unlu/poo/sistemaBV/CuentaNormal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio4/src/ar/edu/unlu/poo/sistemaBV/Titular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio6 + 7/Ejercicio6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio8/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio8/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio8/Ejercicio8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio8/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio8/src/ar/edu/unlu/poo/bibliotecaHyP/Biblioteca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ejercicio8/src/ar/edu/unlu/poo/bibliotecaHyP/Libro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio5 + 10 + 12 + 13/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio5 + 10 + 12 + 13/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio5 + 10 + 12 + 13/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio5 + 10 + 12 + 13/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2UzcCjiPD1omnyec9sb5cXxMmcg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Usuario.DESKTOP-HK8D1EK/Desktop/Sistemas Informaticos/Programacion orientada a objetos/2023/Practica Java/Ejercicio8",
+    "onboarding.tips.debug.path": "C:/Users/Usuario.DESKTOP-HK8D1EK/Desktop/Sistemas Informaticos/Programacion orientada a objetos/2023/Practica Java/Ejercicio6/src/Main.java",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eed96b7d-058b-4743-823a-c28bd715f631" name="Changes" comment="" />
+      <created>1693945723880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693945723880</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
