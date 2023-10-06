@@ -1,4 +1,4 @@
-# tp1POO
-Trabajo Practico N°1 de POO (Realizado)
+# tpsPOO
+Trabajos Practicos de POO (Realizado)
 Nombre y Apellido: Cristian Anito
 Legajo: 158887
